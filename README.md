@@ -1,4 +1,8 @@
-# selenium-grid-on-docker
+# Steps
+* ./install.sh
+* docker-compose up
+* ./load_test.sh
 
-Example code for my blog post,
-[Running a Selenium Grid with docker-compose](http://carlosbecker.com/posts/selenium-grid-docker-compose)
+
+# Origin
+This is forked from code from Carlos Becker's [blog post](http://carlosbecker.com/posts/selenium-grid-docker-compose)
